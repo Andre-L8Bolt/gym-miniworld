@@ -1,0 +1,7 @@
+#+TITLE: Computer Science 2 Miniworld overview & instructions
+#+AUTHOR: André
+* Introduction
+This is my personal repository containing some tests that I did for gym-miniworld. I will be explaining my process for different assignments.
+
+
+For the old README file, [[oldreadme.md][click this link]].
